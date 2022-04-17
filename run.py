@@ -1,4 +1,5 @@
 import os
+import json
 from flask import Flask, render_template
 
 
@@ -14,12 +15,22 @@ def about():
 
 @app.route("/shop")
 def shop():
-    return render_template("shop.html")
+     data = []
+     with open("data/products.json", "r") as json_data:
+          data = json.load(json_data)
+     return render_template("shop.html", page_title="Shop", products=data)
 
 @app.route("/contact")
 def contact():
     return render_template("contact.html")
 
+@app.route("/shop_single")
+def shop_single():
+      data = []
+      with open("data/products.json", "r") as json_data:
+          data = json.load(json_data)
+      return render_template("shop_single.html", page_title="Shop Single", products=data)
+ 
 
 if __name__ == "__main__":
     app.run(

@@ -2,3 +2,28 @@
 Custom Css
 */
 
+:root {
+    --interative-color: rgb(89,171,110);
+}
+
+.interative-color {
+    color: var(--interative-color);
+   
+}
+
+.navbar.fixed {
+ position: sticky !important;
+ top:0px;
+ background-color: rgb(33,41,52);
+ transition: all ease 0.5s;
+ z-index: 1000;
+}
+
+.nav-link.fixed,
+.nav-icon i.fixed {
+    color: #fff !important;
+}
+
+
+
+
