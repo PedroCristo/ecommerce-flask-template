@@ -1,0 +1,77 @@
+[
+    {
+        "gender": "Women",
+        "product_name": "Dress",
+        "size": "XS/S/M/L/XL",
+        "rating": "🌟🌟🌟🌟",
+        "price": "85",
+        "image": "./static/img/shop_03.jpg"
+    },
+    {
+        "gender": "Man",
+        "product_name": "Jacket",
+        "size": "S/M/L/XL",
+        "rating": "🌟🌟🌟🌟🌟",
+        "price": "125",
+        "image": "./static/img/shop_05.jpg"
+    },
+    {
+        "gender": "Women",
+        "product_name": "Jacket",
+        "size": "S/M/L/XL",
+        "rating": "🌟🌟🌟",
+        "price": "125",
+        "image": "./static/img/shop_01.jpg"
+    },
+    {
+        "gender": "Women",
+        "product_name": "Jacket",
+        "size": "S/M/L/XL",
+        "rating": "🌟🌟🌟🌟🌟",
+        "price": "125",
+        "image": "./static/img/shop_02.jpg"
+    },
+    {
+        "gender": "Man",
+        "product_name": "Jacket",
+        "size": "S/M/L/XL",
+        "rating": "🌟🌟🌟🌟",
+        "price": "125",
+        "image": "./static/img/shop_04.jpg"
+    },
+    {
+        "gender": "Women",
+        "product_name": "Jacket",
+        "size": "xs/S/M/L/XL",
+        "rating": "🌟🌟🌟🌟🌟",
+        "price": "95",
+        "image": "./static/img/shop_06.jpg"
+    },
+    {
+        "gender": "Man",
+        "product_name": "Jacket",
+        "size": "S/M/L/XL",
+        "rating": "🌟🌟🌟🌟🌟",
+        "price": "75",
+        "image": "./static/img/shop_07.jpg"
+    },
+    {
+        "gender": "Women",
+        "product_name": "Jacket",
+        "size": "S/M/L/XL",
+        "rating": "🌟🌟🌟🌟🌟",
+        "price": "87",
+        "image": "./static/img/shop_09.jpg"
+    },
+    {
+        "gender": "Women",
+        "product_name": "Jacket",
+        "size": "S/M/L",
+        "rating": "🌟🌟🌟🌟🌟",
+        "price": "100",
+        "image": "./static/img/shop_10.jpg"
+    }
+
+]
+
+
