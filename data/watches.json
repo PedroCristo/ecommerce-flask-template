@@ -1,0 +1,52 @@
+[
+    {
+        "gender": "Women",
+        "product_name": "Smart Watch KW 10",
+        "size": "6/6.5/7/7.5/8",
+        "rating": "🌟🌟🌟🌟",
+        "price": "65",
+        "image": "https://litb-cgis.rightinthebox.com/images/640x640/202108/bps/product/inc/ccdtfr1628156683518.jpg?fmt=webp&v=1"
+    },
+
+    {
+        "gender": "Women",
+        "product_name": "Smart Watch iMosi",
+        "size": "6/6.5/7",
+        "rating": "🌟🌟🌟🌟",
+        "price": "85",
+        "image": "https://litb-cgis.rightinthebox.com/images/640x640/202111/bps/product/inc/axkkbo1636601713343.jpg"
+    },
+    {
+        "gender": "Men",
+        "product_name": "Smart Watch M33 ",
+        "size": "6/6.5/7",
+        "rating": "🌟🌟🌟🌟",
+        "price": "110",
+        "image": "https://litb-cgis.rightinthebox.com/images/640x640/202204/bps/product/inc/fixhzs1649662831497.jpg?fmt=webp&v=1"
+    },
+    {
+        "gender": "Women",
+        "product_name": "Smart Watch G 13",
+        "size": "6/6.5/7/7.5",
+        "rating": "🌟🌟🌟🌟",
+        "price": "75",
+        "image": "https://litb-cgis.rightinthebox.com/images/640x640/202203/bps/product/inc/ueqyls1648202017275.jpg?fmt=webp&v=1"
+    },
+
+    {
+        "gender": "Men",
+        "product_name": "Smart Watch V5",
+        "size": "6/6.5/7",
+        "rating": "🌟🌟🌟🌟",
+        "price": "70",
+        "image": "https://litb-cgis.rightinthebox.com/images/640x640/202108/bps/product/inc/gwtjxo1628851542115.jpg?fmt=webp&v=1"
+    },
+    {
+        "gender": "Men",
+        "product_name": "Smart Watch Lokmat",
+        "size": "6/6.5/7",
+        "rating": "🌟🌟🌟🌟",
+        "price": "160",
+        "image": "https://litb-cgis.rightinthebox.com/images/640x640/202105/bps/product/inc/luyezf1621583274009.jpg"
+    }
+]

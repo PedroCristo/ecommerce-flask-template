@@ -30,6 +30,13 @@ def shop_single():
       with open("data/products.json", "r") as json_data:
           data = json.load(json_data)
       return render_template("shop_single.html", page_title="Shop Single", products=data)
+
+@app.route("/watches")
+def watches():
+       data = []
+       with open("data/watches.json", "r") as json_data:
+           data = json.load(json_data)
+       return render_template("watches.html", page_title="Watches", watches=data)
  
 
 if __name__ == "__main__":

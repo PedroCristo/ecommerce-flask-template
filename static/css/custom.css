@@ -11,6 +11,10 @@ Custom Css
    
 }
 
+.navbar {
+    padding-top: 0.9rem !important;
+}
+
 .navbar.fixed {
  position: sticky !important;
  top:0px;
@@ -22,6 +26,10 @@ Custom Css
 .nav-link.fixed,
 .nav-icon i.fixed {
     color: #fff !important;
+}
+
+.translate-middle {
+    transform: translate(-87%,-120%)!important;
 }
 
 
